@@ -23,7 +23,7 @@ body {
 
 main {
 	display: flex;
-	width: 580px;
+	width: 590px;
 	height: 450px;
 	border-radius: 8px;
 	flex-direction: row;
@@ -51,7 +51,7 @@ main {
 .caption {
 	font-family: "Montserrat", sans-serif;
 	font-weight: 500;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	letter-spacing: 5px;
 }
 
@@ -59,19 +59,19 @@ main {
 	font-family: "Fraunces", serif;
 	font-weight: 700;
 	font-size: 30px;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	line-height: 1.2;
 	color: black;
 }
 
 .description {
 	font-family: "Montserrat", sans-serif;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	line-height: 1.2;
 }
 
 .price__wrapper {
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	display: flex;
 	align-items: center;
 }
