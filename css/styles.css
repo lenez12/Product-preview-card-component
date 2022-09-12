@@ -23,9 +23,8 @@ body {
 
 main {
 	display: flex;
-	width: 700px;
-	height: 410px;
-	box-shadow: 1px 1px 10px var(--dark-grey-color);
+	width: 600px;
+	height: 500px;
 	border-radius: 8px;
 	flex-direction: row;
 	background: var(--white-color);
