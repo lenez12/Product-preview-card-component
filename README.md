@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Source Code URL: [Source Github](https://github.com/lenez12/Product-preview-card-component.git)
-- Live Site URL: [Demo Live](http://live.testingalltech.xyz/)
+- Live Site URL: [Demo Live](https://lenez-product-preview.netlify.app/)
 
 ## My process
 
