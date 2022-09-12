@@ -23,8 +23,8 @@ body {
 
 main {
 	display: flex;
-	width: 600px;
-	height: 500px;
+	width: 580px;
+	height: 450px;
 	border-radius: 8px;
 	flex-direction: row;
 	background: var(--white-color);
@@ -88,6 +88,7 @@ main {
 	font-family: "Montserrat", sans-serif;
 	font-weight: 500;
 	font-size: 12px;
+	text-decoration: line-through;
 }
 
 button {
